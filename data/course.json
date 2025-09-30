@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ]
+  ],
+  "legacy_uid": "303727b7-4924-1466-8436-5354dadfca34",
+  "instructors": {
+    "content": [
+      "00c098a4-38a3-6b3a-5637-a788c70f97a8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a6377eab-1423-431f-1f7b-1129239d4be7",
+    "website": "21l-011-the-film-experience-fall-2013"
+  },
+  "course_title": "The Film Experience",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "This course concentrates on close analysis and criticism of a wide range of films, from the early silent period, classic Hollywood genres including musicals, thrillers and westerns, and European and Japanese art cinema. It explores the work of Griffith, Chaplin, Keaton, Capra, Hawks, Hitchcock, Altman, Renoir, DeSica, and Kurosawa. Through comparative reading of films from different eras and countries, students develop the skills to turn their in-depth analyses into interpretations and explore theoretical issues related to spectatorship.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.011",
+  "course_image_thumbnail": {
+    "content": "d8e13a04-f839-7993-50b6-92b0ed51534e",
+    "website": "21l-011-the-film-experience-fall-2013"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Written Assignments",
+    "Instructor Insights",
+    "Podcasts"
+  ],
+  "site_uid": "29241b40-344b-4c42-ad74-4d66214d6ebb",
+  "site_short_id": "21l.011-fall-2013",
+  "site_url_path": "courses/21l-011-the-film-experience-fall-2013",
+  "title": "Course Metadata"
+}

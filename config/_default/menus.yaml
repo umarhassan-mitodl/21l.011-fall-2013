@@ -1,0 +1,37 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 53952b5f-7c26-ef54-2734-918434ba0645
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 17c63899-0828-3a9d-8260-5e0aff0baad2
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 05d54ae4-21a9-2de4-265f-beb14da99d94
+  name: Video Playlist
+  pageRef: /pages/instructor-insights/video-playlist
+  parent: 17c63899-0828-3a9d-8260-5e0aff0baad2
+  weight: 30
+- identifier: e4038599-3b5a-fe25-3acb-5ca71d660a90
+  name: Films & Readings
+  pageRef: /pages/films-readings/
+  weight: 40
+- identifier: 4029992a-5d00-3e2d-067f-3537974d62fa
+  name: Public Domain Films
+  pageRef: /pages/films-readings/public-domain-films
+  parent: e4038599-3b5a-fe25-3acb-5ca71d660a90
+  weight: 50
+- identifier: 4d8da501-0091-ab4e-31fd-9e0497b551ec
+  name: Lecture Videos & Notes
+  pageRef: /video_galleries/lecture-videos-notes
+  weight: 60
+- identifier: cc88a5c0-a907-6592-eb9c-e4329f9efc9d
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: 19ddc9b9-38e9-b79d-3e9f-222eb142860e
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 80
