@@ -4,8 +4,6 @@ description: Caption file for a video lecture.
 file: /courses/21l-011-the-film-experience-fall-2013/9629a4b338d6a1b01dc89a4b769004ca_WsEPhUu8kKU.srt
 file_size: 68074
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

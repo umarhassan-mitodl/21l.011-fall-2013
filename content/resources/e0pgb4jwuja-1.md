@@ -5,8 +5,6 @@ description: Transcript of one of several videos in which Professor David Thorbu
 file: /courses/21l-011-the-film-experience-fall-2013/29ba8cf5638b579dd17847e132c3ed7c_e0pgB4jWUjA.pdf
 file_size: 18787
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

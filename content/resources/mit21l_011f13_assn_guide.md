@@ -5,8 +5,6 @@ description: These guidelines for writing papers include a note on plagiarism, a
 file: /courses/21l-011-the-film-experience-fall-2013/6e18e071bf2c6e595d0cd4739900d525_MIT21L_011F13_assn_guide.pdf
 file_size: 216388
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

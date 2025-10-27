@@ -4,8 +4,6 @@ description: Transcript of a video lecture.
 file: /courses/21l-011-the-film-experience-fall-2013/69fbc255db8cece66e36e9fbcdbddd88_vtViG3o2mgg.pdf
 file_size: 83118
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

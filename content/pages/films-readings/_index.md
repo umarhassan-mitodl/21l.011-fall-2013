@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the films and readings for each week of the course,
   information on the primary course text, and a list of additional recommended readings.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Films & Readings
@@ -67,15 +65,15 @@ Keaton
 {{< tdopen >}}
 
 
-[_The Great Train Robbery_](https://www.loc.gov/item/00694220/). Directed by Edwin S. Porter. 11 min. Thomas A. Edison, Inc., 1903.
+{{% resource_link "723aaef1-2e54-40ec-927a-3fe51d56085a" "_The Great Train Robbery_" %}}. Directed by Edwin S. Porter. 11 min. Thomas A. Edison, Inc., 1903.
 
-[_A Beast at Bay_](https://archive.org/details/ABeastAtBay). Directed by D. W. Griffith. 14 min. 1912.
+{{% resource_link "88291130-9016-4ccb-a4e4-f4f6e6147c47" "_A Beast at Bay_" %}}. Directed by D. W. Griffith. 14 min. 1912.
 
-[_The Lonedale Operator_](https://www.youtube.com/watch?v=7Jt75Pf1UsA). Directed by D. W. Griffith. 17 min. 1911.
+{{% resource_link "ca16a41d-bd33-4500-aabc-6de804a82940" "_The Lonedale Operator_" %}}. Directed by D. W. Griffith. 17 min. 1911.
 
-[_Cops_](https://archive.org/details/Cops). Directed by Buster Keaton. 18 min. First National Pictures, Inc., 1922.
+{{% resource_link "1fe1c28a-9b47-4a22-8ba7-950686f297b8" "_Cops_" %}}. Directed by Buster Keaton. 18 min. First National Pictures, Inc., 1922.
 
-[_The General_](https://www.archive.org/details/TheGeneral). Directed by Buster Keaton. 75 min. United Artists, 1926.
+{{% resource_link "81c2e399-24c1-4d6d-8239-2662c44d1822" "_The General_" %}}. Directed by Buster Keaton. 75 min. United Artists, 1926.
 
 
 {{< tdclose >}}
@@ -84,11 +82,11 @@ Keaton
 
 Introduction:
 
-*   [_Fred Ott's Sneeze_](https://www.loc.gov/item/00694192/)
-*   [_Arrival of a Train at La Ciotat_](http://www.youtube.com/watch?v=v6i3uccnZhQ)
-*   [_L'Arroseur arrosé_](http://www.youtube.com/watch?v=Kd4jSTBhYDw&mode) (Sprinkler short comedy)
-*   [_The Whole Dam Family and the Dam Dog_](http://www.youtube.com/watch?v=_ffo_rakc9w)
-*   [_Black Diamond Express_](http://archive.org/details/SF125)
+*   {{% resource_link "1adc29a4-fb19-44b3-96c8-1c74d87b401f" "_Fred Ott's Sneeze_" %}}
+*   {{% resource_link "3dad75da-bb6a-496f-8b9e-11fee68ee1aa" "_Arrival of a Train at La Ciotat_" %}}
+*   {{% resource_link "53c049fb-5e1d-4c48-ae70-2462dd17ed65" "_L'Arroseur arrosé_" %}} (Sprinkler short comedy)
+*   {{% resource_link "1c0174d2-f544-4503-a5a8-22b645ab7112" "_The Whole Dam Family and the Dam Dog_" %}}
+*   {{% resource_link "98d2b4ad-1cfe-46b1-b0a4-0984af684570" "_Black Diamond Express_" %}}
 
 Keaton (see the Public Domain Films page for links to these and related films):
 
@@ -105,7 +103,7 @@ Flipped class week: before this week's screening, watch OCW videos {{% resource_
 
 \[Cook\] pp. 1–41 and 51–85.
 
-Gunning, Tom. "[An Aesthetic of Astonishment: Early Film and the (In)Credulous Spectator](https://www.zotero.org/fprieto/items/itemKey/AAFDRC8K)." _Art and Text_ 34 (1989).
+Gunning, Tom. "{{% resource_link "faf6fc1e-a931-4c2f-b708-20c6fafa8ca0" "An Aesthetic of Astonishment: Early Film and the (In)Credulous Spectator" %}}." _Art and Text_ 34 (1989).
 
 \[Cook\] pp. 177–82.
 
@@ -129,11 +127,11 @@ Chaplin
 {{< tdopen >}}
 
 
-[_The Immigrant_](https://archive.org/details/CC_1917_06_17_TheImmigrant). Directed by Charlie Chaplin. 20 min. Mutual Film Corporation, 1917.
+{{% resource_link "e490d046-58c8-4797-a1d8-8fd1d9c6b56e" "_The Immigrant_" %}}. Directed by Charlie Chaplin. 20 min. Mutual Film Corporation, 1917.
 
-[_Easy Street_](https://www.youtube.com/watch?v=G_D2G66bplk). Directed by Charlie Chaplin. 19 min. Mutual Film Corporation, 1917.
+{{% resource_link "21f457f1-efa8-46f9-966a-cdb20527d0ce" "_Easy Street_" %}}. Directed by Charlie Chaplin. 19 min. Mutual Film Corporation, 1917.
 
-[_Modern Times_](http://www.imdb.com/title/tt0027977/). Directed by Charlie Chaplin. 87 min. United Artists, 1936.
+{{% resource_link "7fb3f953-2ebe-45bf-bec7-ee650dfddcb3" "_Modern Times_" %}}. Directed by Charlie Chaplin. 87 min. United Artists, 1936.
 
 
 {{< tdclose >}}
@@ -161,20 +159,20 @@ Film as a global and cultural form: German film
 {{< tdopen >}}
 
 
-[_Nosferatu_](https://archive.org/details/Nosferatu_most_complete_version_93_mins.). Directed by F. W. Murnau. 93 min. Film Arts Guild, 1922. 
+{{% resource_link "fb69124c-35bf-4080-9e00-7fc401c696c9" "_Nosferatu_" %}}. Directed by F. W. Murnau. 93 min. Film Arts Guild, 1922. 
 
-[_The Last Laugh_](https://archive.org/details/Der_letzte_Mann). Directed by F. W. Murnau. 101 min. UFA, 1924.
+{{% resource_link "08e73f17-b260-4bca-95df-3a7dad3bccc4" "_The Last Laugh_" %}}. Directed by F. W. Murnau. 101 min. UFA, 1924.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-_[Battleship Potemkin](https://archive.org/details/BattleshipPotemkin)_ clip: Odessa Steps sequence. Directed by Sergei M. Eisenstein. 1925.
+_{{% resource_link "3e36d276-b069-4500-a66b-2ebf3ff3d683" "Battleship Potemkin" %}}_ clip: Odessa Steps sequence. Directed by Sergei M. Eisenstein. 1925.
 
-[_Cabinet of Dr Caligari_](https://archive.org/details/thecabinetofdrcaligari) clip: sleepwalking monster takes woman. Directed by Robert Wiene. Decla-Bioscop, 1920.
+{{% resource_link "7108c61c-545e-4201-9c71-a64023263e1f" "_Cabinet of Dr Caligari_" %}} clip: sleepwalking monster takes woman. Directed by Robert Wiene. Decla-Bioscop, 1920.
 
-_[Metropolis](https://en.wikipedia.org/wiki/Metropolis_(1927_film))_ clip. Directed by Fritz Lang. Original release by Universum Film AG, 1927; restoration © 2010 The Murnau Foundation.
+_{{% resource_link "ba1b9944-1a4e-4103-8af0-2ffc80c4e134" "Metropolis" %}}_ clip. Directed by Fritz Lang. Original release by Universum Film AG, 1927; restoration © 2010 The Murnau Foundation.
 
 
 {{< tdclose >}}
@@ -199,18 +197,18 @@ Hollywood in the 1930s
 {{< tdopen >}}
 
 
-[_It Happened One Night_](http://www.imdb.com/title/tt0025316/). Directed by Frank Capra. 105 min. Columbia Pictures, 1934.
+{{% resource_link "ff946efa-7769-4a65-9942-26c42642d31b" "_It Happened One Night_" %}}. Directed by Frank Capra. 105 min. Columbia Pictures, 1934.
 
-[_His Girl Friday_](http://www.imdb.com/title/tt0032599/). Directed by Howard Hawks. 92 min. Columbia Pictures, 1940.
+{{% resource_link "a8219009-ceb4-4c62-b60c-94d41e897257" "_His Girl Friday_" %}}. Directed by Howard Hawks. 92 min. Columbia Pictures, 1940.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[_The Lady Eve_](http://www.imdb.com/title/tt0033804/) clip: Stanwyck character comments on the women trying to get the attention of Fonda. Directed by Preston Sturges. Paramount Pictures, 1941.
+{{% resource_link "8f963d47-fce2-4568-8854-c25aaf649f3e" "_The Lady Eve_" %}} clip: Stanwyck character comments on the women trying to get the attention of Fonda. Directed by Preston Sturges. Paramount Pictures, 1941.
 
-[_Ball of Fire_](http://www.imdb.com/title/tt0033373/) clip: Stanwyck character meets Cooper and the other professors. Directed by Howard Hawks. Samuel Goldwyn Productions, 1941.
+{{% resource_link "87211118-7bb9-4666-82c6-de560d997cfc" "_Ball of Fire_" %}} clip: Stanwyck character meets Cooper and the other professors. Directed by Howard Hawks. Samuel Goldwyn Productions, 1941.
 
 
 {{< tdclose >}}
@@ -229,16 +227,16 @@ Hitchcock
 {{< tdopen >}}
 
 
-[_Shadow of a Doubt_](http://www.imdb.com/title/tt0036342/). Directed by Alfred Hitchcock. 108 min. Universal Pictures, 1943.
+{{% resource_link "f4c801fb-7135-4c93-87b2-5068e2078320" "_Shadow of a Doubt_" %}}. Directed by Alfred Hitchcock. 108 min. Universal Pictures, 1943.
 
-[_Rear Window_](http://www.imdb.com/title/tt0047396/). Directed by Alfred Hitchcock. 112 min. Paramount Pictures, 1954.
+{{% resource_link "0759f073-b08f-4795-9e6c-106f72f96c45" "_Rear Window_" %}}. Directed by Alfred Hitchcock. 112 min. Paramount Pictures, 1954.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-_[Strangers on a Train](https://en.wikipedia.org/wiki/Strangers_on_a_Train_(film))_ clip: climactic scene of battle on a merry go-round. Directed by Alfred Hitchcock. Warner Bros., 1951.
+_{{% resource_link "d527bd4d-d8ad-4de4-b0c5-083ce9640669" "Strangers on a Train" %}}_ clip: climactic scene of battle on a merry go-round. Directed by Alfred Hitchcock. Warner Bros., 1951.
 
 
 {{< tdclose >}}
@@ -257,20 +255,20 @@ The Musical
 {{< tdopen >}}
 
 
-[_Singin' in the Rain_](http://www.imdb.com/title/tt0045152/). Directed by Stanely Donen and Gene Kelly. 103 min. MGM, 1952.
+{{% resource_link "0a335218-6c03-44ca-bb3d-c79efcf54d3f" "_Singin' in the Rain_" %}}. Directed by Stanely Donen and Gene Kelly. 103 min. MGM, 1952.
 
-[_Cabaret_](http://www.imdb.com/title/tt0068327/). Directed by Bob Fosse. 124 min. Allied Artists, 1972.
+{{% resource_link "c1061457-f0ab-4b09-a33f-ec1d56c1f604" "_Cabaret_" %}}. Directed by Bob Fosse. 124 min. Allied Artists, 1972.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-_[Love Me Tonight](https://en.wikipedia.org/wiki/Love_Me_Tonight)_ clip: pass-along song "Isn't It Romantic?" featuring Maurice Chevalier. Directed by Rouben Mamoulian. Paramount Pictures, 1932.
+_{{% resource_link "0fdeb426-76cb-4b25-87ba-045065046128" "Love Me Tonight" %}}_ clip: pass-along song "Isn't It Romantic?" featuring Maurice Chevalier. Directed by Rouben Mamoulian. Paramount Pictures, 1932.
 
-_[42nd Street](https://en.wikipedia.org/wiki/42nd_Street_(film))_ clip: song "Young and Healthy" with Busby Berkeley sequence of Dick Powell and a "universe of women." Directed by Lloyd Bacon. Warner Bros., 1933.
+_{{% resource_link "29e83fc6-2733-4c7f-ba82-4e2e088cbf34" "42nd Street" %}}_ clip: song "Young and Healthy" with Busby Berkeley sequence of Dick Powell and a "universe of women." Directed by Lloyd Bacon. Warner Bros., 1933.
 
-[_Top Hat_](http://www.imdb.com/title/tt0027125/) clip: Fred Astaire and Ginger Rogers dance to "Cheek to Cheek." Directed by Mark Sandrich. RKO, 1935.
+{{% resource_link "3e7870cf-6635-4de1-a68c-6a7aacf0b80f" "_Top Hat_" %}} clip: Fred Astaire and Ginger Rogers dance to "Cheek to Cheek." Directed by Mark Sandrich. RKO, 1935.
 
 
 {{< tdclose >}}
@@ -289,14 +287,14 @@ The Western
 {{< tdopen >}}
 
 
-[_The Searchers_](http://www.imdb.com/title/tt0049730/). Directed by John Ford. 119 min. Warner Bros., 1956.
+{{% resource_link "a9250db4-9eb3-4594-ae2b-87972366d806" "_The Searchers_" %}}. Directed by John Ford. 119 min. Warner Bros., 1956.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-_[_McCabe and Mrs. Miller_](http://www.imdb.com/title/tt0067411/)_ clip: gunfight on the bridge, young man is killed. Directed by Robert Altman. Warner Bros., 1971.
+_{{% resource_link "553804f3-ba27-43f8-8a89-c062a7e86f46" "_McCabe and Mrs. Miller_" %}}_ clip: gunfight on the bridge, young man is killed. Directed by Robert Altman. Warner Bros., 1971.
 
 
 {{< tdclose >}}
@@ -305,7 +303,7 @@ _[_McCabe and Mrs. Miller_](http://www.imdb.com/title/tt0067411/)_ clip: gunfigh
 
 \[Cook\] Chapter 12.
 
-Stone, Robert. "[The Search Party](http://www.nytimes.com/2007/11/10/magazine/11stone.html)," _The New York Times_, November 10, 2007.
+Stone, Robert. "{{% resource_link "7ff3d79c-6fa3-4de7-9efa-56699b2db3b2" "The Search Party" %}}," _The New York Times_, November 10, 2007.
 
 
 {{< tdclose >}}
@@ -321,18 +319,18 @@ American Film in the 1970s
 {{< tdopen >}}
 
 
-[_McCabe and Mrs. Miller_](http://www.imdb.com/title/tt0067411/). Directed by Robert Altman. 120 min. Warner Bros., 1971.
+{{% resource_link "553804f3-ba27-43f8-8a89-c062a7e86f46" "_McCabe and Mrs. Miller_" %}}. Directed by Robert Altman. 120 min. Warner Bros., 1971.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-_[Five Easy Pieces](https://en.wikipedia.org/wiki/Five_Easy_Pieces)_ clip: Jack Nicholson order food in a diner, Directed by Bob Rafelson. Columbia Pictures, 1970.
+_{{% resource_link "75b05224-d085-42c5-b25f-56cba5f7f76b" "Five Easy Pieces" %}}_ clip: Jack Nicholson order food in a diner, Directed by Bob Rafelson. Columbia Pictures, 1970.
 
-[_The Long Goodbye_](http://www.imdb.com/title/tt0070334/) clip: Detective Marlowe shoots a friend who got away with murder. Directed by Robert Altman. United Artists, 1973.
+{{% resource_link "5bd06392-c751-4d02-a778-524125191fe2" "_The Long Goodbye_" %}} clip: Detective Marlowe shoots a friend who got away with murder. Directed by Robert Altman. United Artists, 1973.
 
-[_High Noon_](http://www.imdb.com/title/tt0044706/) clip: opening ballad with villains riding through town. Directed by Fred Zinnemann. United Artists, 1952.
+{{% resource_link "6b716d4a-6bd9-4fa5-b41e-23898254cbe8" "_High Noon_" %}} clip: opening ballad with villains riding through town. Directed by Fred Zinnemann. United Artists, 1952.
 
 
 {{< tdclose >}}
@@ -343,7 +341,7 @@ Flipped class week: before this week's screening, watch OCW videos {{% resource_
 
 \[Cook\] pp. 845–68.
 
-Lethem, Jonathan. "[The Greatest Death Scene](http://www.nytimes.com/2007/11/10/magazine/11lethem.html?_r=1&)," _The New York Times_, November 10, 2007.
+Lethem, Jonathan. "{{% resource_link "ffe926af-5ab2-4183-96c2-fbc2e4ddbc8d" "The Greatest Death Scene" %}}," _The New York Times_, November 10, 2007.
 
 
 {{< tdclose >}}
@@ -365,16 +363,16 @@ Renoir and Poetic Realism
 {{< tdopen >}}
 
 
-[_Grand Illusion_](http://www.imdb.com/title/tt0028950/). Directed by Jean Renoir. 114 min. World Pictures, 1937.
+{{% resource_link "261fea56-c003-4a99-ac1b-70910d00ce7a" "_Grand Illusion_" %}}. Directed by Jean Renoir. 114 min. World Pictures, 1937.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[_Boudu Saved From Drowning_](http://www.imdb.com/title/tt0022718/) clip: Boudu leaves his own wedding party on the river. Directed by Jean Renoir. Les Établissements Jacques Haïk, 1932.
+{{% resource_link "99e4886b-d4c2-4128-a270-d874411c020b" "_Boudu Saved From Drowning_" %}} clip: Boudu leaves his own wedding party on the river. Directed by Jean Renoir. Les Établissements Jacques Haïk, 1932.
 
-_[Rules of the Game](https://en.wikipedia.org/wiki/The_Rules_of_the_Game)_ clip: hunting scene. Directed by Jean Renoir. Gaumont Film Company, 1939.
+_{{% resource_link "016be698-2fbf-4da9-bf53-7b570ebb5259" "Rules of the Game" %}}_ clip: hunting scene. Directed by Jean Renoir. Gaumont Film Company, 1939.
 
 
 {{< tdclose >}}
@@ -399,14 +397,14 @@ Italian Neorealism
 {{< tdopen >}}
 
 
-[_Bicycle Thieves_](http://www.imdb.com/title/tt0040522/). Directed by Vittorio De Sica. 93 min. Ente Nazionale Industrie Cinematografiche, 1948.
+{{% resource_link "40cdd6eb-496d-4685-b7ff-9c67531e834c" "_Bicycle Thieves_" %}}. Directed by Vittorio De Sica. 93 min. Ente Nazionale Industrie Cinematografiche, 1948.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[_Rome, Open City_](http://www.imdb.com/title/tt0038890/) clip: child saboteurs return home to their parents. Directed by Roberto Rossellini. Minerva Film S.p.A., 1945.
+{{% resource_link "1bb534dd-6a72-4951-8b4a-9f5bcf510278" "_Rome, Open City_" %}} clip: child saboteurs return home to their parents. Directed by Roberto Rossellini. Minerva Film S.p.A., 1945.
 
 
 {{< tdclose >}}
@@ -433,14 +431,14 @@ The French New Wave
 {{< tdopen >}}
 
 
-[_The 400 Blows_](http://www.imdb.com/title/tt0053198/). Directed by François Truffaut. 99 min. Cocinor, 1959.
+{{% resource_link "225de1a8-4b62-4e2d-92b1-55f9b510768a" "_The 400 Blows_" %}}. Directed by François Truffaut. 99 min. Cocinor, 1959.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[_Umberto D._](http://www.imdb.com/title/tt0045274/) clip: old men on a bus. Directed by Vittorio De Sica. Dear Film, 1952.
+{{% resource_link "48e0b7bb-752d-4a0e-aee2-624ff053aa26" "_Umberto D._" %}} clip: old men on a bus. Directed by Vittorio De Sica. Dear Film, 1952.
 
 
 {{< tdclose >}}
@@ -457,7 +455,7 @@ The French New Wave
 Kurosawa's _Rashomon_
 {{< tdclose >}}
 {{< tdopen >}}
-[_Rashomon_](http://www.imdb.com/title/tt0042876/). Directed by Akira Kurosawa. 88 min. Daiei Film Co. Ltd., 1950.
+{{% resource_link "79abd843-e265-4bd0-b4cb-249eab05c571" "_Rashomon_" %}}. Directed by Akira Kurosawa. 88 min. Daiei Film Co. Ltd., 1950.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -478,7 +476,7 @@ Summary Perspectives: Film as Art and Artifact
  
 {{< tdclose >}}
 {{< tdopen >}}
-[_Seven Samurai_](http://www.imdb.com/title/tt0047478/) clip: journey to village, Mifune's character catches a fish. Directed by Akira Kurosawa. Toho, 1954.
+{{% resource_link "5a182b0d-d260-4e41-88db-f836e7d26e9a" "_Seven Samurai_" %}} clip: journey to village, Mifune's character catches a fish. Directed by Akira Kurosawa. Toho, 1954.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -490,8 +488,8 @@ Summary Perspectives: Film as Art and Artifact
 
 ### Supplemental Readings
 
-Thorburn, David. ["Television as an Aesthetic Medium." (PDF)](http://web.mit.edu/people/thorburn/publications/Thorburn_TelevisionAsAestheticMedium.pdf) _Critical Studies in Mass Communication_ 4, no. 2 (1987): 161–73.
+Thorburn, David. {{% resource_link "d3c2aaf2-1fb1-4746-bae5-fbeb7d58a188" "\"Television as an Aesthetic Medium.\" (PDF)" %}} _Critical Studies in Mass Communication_ 4, no. 2 (1987): 161–73.
 
 ———. "Television Melodrama." In _Television: The Critical View_. Edited by Horace Newcomb. 7th ed. Oxford University Press, 2006. ISBN: 9780195301168.
 
-———. "[Web of Paradox.](https://prospect.org/culture/essay-web-paradox/)" _The American Prospect_, December 19, 2001.
+———. "{{% resource_link "6d719669-bb4e-4c64-b540-b91a4ce2c948" "Web of Paradox." %}}" _The American Prospect_, December 19, 2001.

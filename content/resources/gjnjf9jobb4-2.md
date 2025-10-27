@@ -5,8 +5,6 @@ description: Caption file for one of several videos in which Professor David Tho
 file: /courses/21l-011-the-film-experience-fall-2013/b186373a40725d4c969488af66ace574_gjnJf9jobb4.vtt
 file_size: 21046
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

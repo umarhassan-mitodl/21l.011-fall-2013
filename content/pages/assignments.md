@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides writing guidelines, instructions, and suggested
   topics for the three essay assignments of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

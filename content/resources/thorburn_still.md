@@ -5,8 +5,6 @@ description: Image accompanying a set of videos, Professor David Thorburn descri
 file: /courses/21l-011-the-film-experience-fall-2013/f6728f2cd0678deb0183c35671a477bd_thorburn_still.jpg
 file_size: 70829
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
